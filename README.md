@@ -4,7 +4,7 @@ This project was created to make people understand that their brilliant ideas ca
 
 ## Live Demo
 
-Experience the live website: [MyBike Demo](https://taniavozniuk.github.io/Dia-web-page/)
+Experience the live website: [Dia Demo](https://taniavozniuk.github.io/Dia-web-page/)
 
 ## Design
 
