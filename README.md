@@ -40,8 +40,8 @@ To set up the project, use these instructions for setting up the project locally
 ## Features
 
 * **Responsive Design**:
-  Optimized for different screen size and divices, responses on width 320px, 640px, 1260px
+  Optimized for different screen size and divices, responses on width 320px, 640px, 1260px, 2560px
 * **Menu**:
-  There is a burger menu that has 5 navigation points on the page.
+  There is a burger menu that has 6 navigation points on the page.
 * **Feedback**:
   There is a feedback form on the page, if you have any questions you can ask there.
